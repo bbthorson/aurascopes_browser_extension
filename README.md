@@ -1,6 +1,7 @@
 # Aurascopes Browser Extention
 Update your browser's new page with a personalized horoscope
 
+---
 
 ### Set up
 In order to test this locally, follow these instructions:
@@ -25,5 +26,6 @@ Once the folder is selected, Chrome will load the extension, and you will see it
 #### Pin the Extension (Optional)
 To easily access the extension while testing, you can pin it to the Chrome toolbar. Right-click on the extension’s icon and select the “Pin” option from the context menu. This will keep the extension icon visible even when you close and reopen Chrome.
 
+---
 
 This application currently uses Zapier to update the browser's local storage, but I'm intending to move that functionality to the Backend code base.
