@@ -1,0 +1,11 @@
+{
+    "name": "aurascopes_api",
+    "version": "1.0.0",
+    "description": "An API for getting relevant data for our web app",
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "node-fetch": "^2.6.1",
+      "openai": "^1.0.0"
+    }
+  }
+  
